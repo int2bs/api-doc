@@ -1,25 +1,21 @@
-.. experimenting-to-learn documentation master file, created by
+.. int2bs api documentation master file, created by
    sphinx-quickstart on Mon Dec  5 10:13:31 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Get Started with BLINC
+Get Started with IBS
 ==================================================
 
-Welcome to BLINC Developer Documents 
+Welcome to IBS Developer Documents 
 ---------------------------------------------------
 
-   A decentralized Key Management System
+   Intellectus Blockchain Service
 
-BLINC is a decentralized Key Management System that to provide effective function 
-when building Web3 based system.
+IBS, Intellectus Blockchain Service, is to provide effective building blocks 
+when develop Web3 based system.
 
 
 .. toctree::
    :maxdepth: 1
    :titlesonly:
    :glob:
-
-   api-reference/*
-
-`API References <./api.html>`_
